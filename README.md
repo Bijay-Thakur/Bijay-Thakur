@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/101494798?v=4" width="145" alt="Bijay Thakur" />
-
+    
 # Hi, I'm Bijay Thakur 👋
 
 ### AI Engineer · Applied ML · Full-Stack AI Systems
