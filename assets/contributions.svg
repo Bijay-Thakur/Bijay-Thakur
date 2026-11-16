@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="755" height="352" viewBox="0 0 755 352" role="img" aria-label="Contribution garden">
+<defs>
+ <linearGradient id="cream" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF9EF"/><stop offset="1" stop-color="#F5E8D6"/></linearGradient>
+ <linearGradient id="meadow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B7D195"/><stop offset="1" stop-color="#51845B"/></linearGradient>
+ <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F3D88C"/><stop offset="1" stop-color="#D68E5E"/></linearGradient>
+ <linearGradient id="land" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#D9E1B7" stop-opacity=".75"/><stop offset="1" stop-color="#6A936A" stop-opacity=".4"/></linearGradient>
+</defs>
+<rect x="1.5" y="1.5" width="752" height="349" rx="25" fill="url(#cream)" stroke="#E6D5BB" stroke-width="3" /><g transform="translate(40 72) scale(0.8)"><path d="M0 26 C-8 5 -8 -5 0 -20" stroke="#79915C" fill="none" stroke-width="3"/><ellipse cx="-13" cy="-8" rx="14" ry="7" transform="rotate(30 -13 -8)" fill="#749C64"/><ellipse cx="12" cy="-18" rx="16" ry="8" transform="rotate(-32 12 -18)" fill="#749C64"/></g><text x="86" y="80" fill="#553D31" font-size="32" font-weight="800" font-family="Trebuchet MS,Segoe UI,Verdana,sans-serif" >Contribution garden</text><text x="377" y="188" fill="#917665" font-size="24" font-weight="600" font-family="Trebuchet MS,Segoe UI,Verdana,sans-serif" text-anchor="middle">GitHub data loads after the first Actions run</text><text x="377" y="224" fill="#917665" font-size="18" font-weight="400" font-family="Trebuchet MS,Segoe UI,Verdana,sans-serif" text-anchor="middle">No sample numbers are displayed.</text>
+</svg>
