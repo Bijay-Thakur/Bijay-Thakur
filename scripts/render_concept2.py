@@ -71,7 +71,7 @@ def render_garden(data: dict | None, target: Path | None = None, refreshed_at: d
         if count < 0:
             raise ValueError('Invalid GitHub rolling-year count')
 
-        draw.text((410, 69), 'Your year in code', font=font(30, True), fill=INK)
+        draw.text((410, 69), 'My year in code', font=font(30, True), fill=INK)
         count_str = f'{count:,} contributions'
         right = draw.textbbox((0, 0), count_str, font=font(25, True))[2]
         draw.text((1251 - right, 76), count_str, font=font(25, True), fill=GREEN)
