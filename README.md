@@ -21,11 +21,17 @@
 
 ### 🏔️ My AI Engineering Journey
 
-<img src="assets/ai-journey.svg" width="100%" alt="Illustrated mountain journey: Learn and Explore, Build, Evaluate, Improve, Deploy" />
+<img src="assets/ai-journey-painted.jpg" width="100%" alt="Detailed warm sunset mountain landscape with an explorer, winding trail and milestone signs: Learn and Explore, Build, Evaluate, Improve, Deploy" />
+
+<div align="center"><sub>Learn & Explore → Build → Evaluate → Improve → Deploy</sub></div>
 
 ### 📊 At a Glance
 
 <img src="assets/overview.svg" width="100%" alt="Verified public GitHub repositories, public stars, rolling-year contributions, and five featured projects" />
+
+<!-- STAR_PROVENANCE_START -->
+<p align="center"><strong>⭐ Where does the public star come from?</strong> <a href="https://github.com/Bijay-Thakur/StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores">StoreSense — 1 received star</a><br /><sub>Verified from GitHub's public repository data. This counts stars received by my repositories, not repositories I've starred. The link list refreshes automatically.</sub></p>
+<!-- STAR_PROVENANCE_END -->
 
 ### ✨ Featured Projects — made with care
 
