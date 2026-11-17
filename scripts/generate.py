@@ -12,10 +12,12 @@ from github_data import get_data, PROJECTS
 from studio_art import render_all
 from render_painted_cards import draw_all
 from star_attribution import update_readme_star_sources
+from render_concept2 import render_garden
 
 if __name__ == "__main__":
     if "--placeholders" in sys.argv:
         render_all(None, PROJECTS)
+        render_garden(None)
         draw_all(PROJECTS, None)
         print("Wrote deliberately unpopulated chart placeholders")
     else:
@@ -23,6 +25,7 @@ if __name__ == "__main__":
         assert len(data["days"]) > 300, "Contribution calendar missing recent days"
         assert len(data["chosen"]) == len(PROJECTS), "Repository metadata mismatch"
         render_all(data, PROJECTS)
+        render_garden(data, refreshed_at=datetime.now(timezone.utc))
         draw_all(PROJECTS, data)
         update_readme_star_sources(data)
         # Timestamp the last successful data retrieval, not an assumed update cadence.
