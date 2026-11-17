@@ -1,65 +1,54 @@
 <div align="center">
 
-<img src="assets/hero.jpg" alt="A warm illustrated coding studio at sunset: hello, I'm Bijay" width="100%" />
+<img src="assets/hero.jpg" width="100%" alt="Cozy coding studio at sunset: Bijay, an AI engineer, with his laptop, a friendly robot and a sleeping cat" />
 
-<a href="https://bijaythakur.vercel.app/"><img src="https://img.shields.io/badge/My%20Portfolio-Explore%20my%20work-B86E4A?style=for-the-badge&labelColor=F5E9D9" alt="Visit Bijay's portfolio" /></a>
-<a href="https://www.linkedin.com/in/bijay-thakur-6b7793258/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-69856F?style=for-the-badge&labelColor=F5E9D9" alt="Connect with Bijay on LinkedIn" /></a>
-<a href="mailto:starbijay143@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-C57B55?style=flat-square&labelColor=F5E9D9&color=B86E4A" alt="Email" /></a>
+<h2>Hey there! I'm Bijay Thakur 👋</h2>
 
-<img src="assets/coffee.gif" width="54" alt="An animated steaming mug of coffee" />
+<p>Building thoughtful AI systems that turn complex problems into useful, reliable products.</p>
+<p><b>AI engineering</b> · <b>Applied ML</b> · <b>Full-stack products</b> · New York · Computer Science @ Queens College</p>
 
-**Hi, I'm Bijay.** I turn curious ideas into thoughtful AI systems and useful products.
-
-`AI engineering` &nbsp;·&nbsp; `Applied ML` &nbsp;·&nbsp; `Full-stack building` &nbsp;·&nbsp; `New York`
+<a href="https://bijaythakur.vercel.app/"><img src="assets/link-portfolio.svg" width="235" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/bijay-thakur-6b7793258/"><img src="assets/link-linkedin.svg" width="235" alt="LinkedIn" /></a>
+<a href="mailto:starbijay143@gmail.com"><img src="assets/link-email.svg" width="235" alt="Email" /></a>
 
 </div>
 
-### 🌿 A little about my work
+### 🌱 Contribution Garden
 
-<img src="assets/workflow.svg" alt="My building cycle: explore, build, evaluate, improve" width="100%" />
+<img src="assets/contributions.svg" width="100%" alt="Real GitHub daily contribution heatmap illustrated as a flowering garden; timestamp shown on the chart" />
 
-<div align="center"><sub>CS @ Queens College, CUNY · Interested in building AI systems that are grounded, measured, and useful in the real world.</sub></div>
+<sub>Drawn from GitHub's contribution calendar. Refreshed automatically by GitHub Actions every 30 minutes when GitHub's scheduled runner executes; GitHub image caching can delay when you see an update.</sub>
 
-### ☀️ My little corner of GitHub
+### 🏔️ My AI Engineering Journey
 
-<!-- Auto-generated from public GitHub APIs; updated daily by GitHub Actions. -->
-<img src="assets/overview.svg" alt="Live GitHub metrics: last-year contributions, public repositories, public stars, featured projects" width="100%" />
+<img src="assets/ai-journey.svg" width="100%" alt="Illustrated mountain journey: Learn and Explore, Build, Evaluate, Improve, Deploy" />
 
-<img src="assets/contributions.svg" alt="Contribution garden generated from actual GitHub contribution days" width="100%" />
-<img src="assets/activity.svg" alt="Monthly contributions during the last year, based on GitHub data" width="100%" />
+### 📊 At a Glance
 
-### ✨ Things I've been building
+<img src="assets/overview.svg" width="100%" alt="Verified public GitHub repositories, public stars, rolling-year contributions, and five featured projects" />
 
-<p align="center">
-  <a href="https://github.com/Bijay-Thakur/rag-sec-10k"><img src="assets/project-sec.svg" width="100%" alt="SEC Insight AI — financial document RAG project, with live repository stats" /></a>
-  <a href="https://github.com/Bijay-Thakur/RivalScope-AI"><img src="assets/project-rivalscope.svg" width="100%" alt="RivalScope AI — source-grounded competitive intelligence, with live repository stats" /></a>
-  <a href="https://github.com/Bijay-Thakur/GlitchVision---Visual-Anomaly-Detection-for-Game-QA"><img src="assets/project-glitchvision.svg" width="100%" alt="GlitchVision — video anomaly detection, with live repository stats" /></a>
-  <a href="https://github.com/Bijay-Thakur/Nova-Learn"><img src="assets/project-novalearn.svg" width="100%" alt="NovaLearn — course and assessment workspace, with live repository stats" /></a>
-  <a href="https://github.com/Bijay-Thakur/PACT---Protocol-for-Agentic-Commit-Transactions"><img src="assets/project-pact.svg" width="100%" alt="PACT — ongoing agent transaction reliability project, with live repository stats" /></a>
-</p>
-
-<div align="center"><sub>These are real repositories. Stars, forks, and repository languages are refreshed automatically — not invented badges.</sub></div>
-
-### 🎨 My toolbox
-
-<img src="assets/toolbox.svg" width="100%" alt="My toolbox: Python, PyTorch, Hugging Face, LangGraph, OpenAI, Gemini, FastAPI, Supabase, Next.js, TypeScript, Docker, GitHub Actions" />
-
-<img src="assets/languages.svg" width="100%" alt="Language breakdown measured by GitHub for the four featured public repositories" />
-
-### 🔧 On the workbench
-
-**PACT — an ongoing project.** I'm exploring transaction safeguards for AI agents: delegated authority, commit validation, recovery, and verifiable outcomes. [Follow PACT's development](https://github.com/Bijay-Thakur/PACT---Protocol-for-Agentic-Commit-Transactions).
-
-### 🌱 Currently growing
+### ✨ Featured Projects — made with care
 
 <div align="center">
 
-**More thoughtful retrieval. Better evaluation. Reliable agents. Delightful software.**
+<a href="https://github.com/Bijay-Thakur/rag-sec-10k"><img src="assets/project-sec.svg" width="420" alt="SEC Insight AI — financial filing research using citation-grounded retrieval; live GitHub stars and forks" /></a>
+<a href="https://github.com/Bijay-Thakur/RivalScope-AI"><img src="assets/project-rivalscope.svg" width="420" alt="RivalScope AI — verifiable competitive research with cited evidence and live GitHub stars and forks" /></a>
+<a href="https://github.com/Bijay-Thakur/GlitchVision---Visual-Anomaly-Detection-for-Game-QA"><img src="assets/project-glitchvision.svg" width="420" alt="GlitchVision — gameplay glitch and visual anomaly detection, with a stylized runner gameplay illustration" /></a>
+<a href="https://github.com/Bijay-Thakur/Nova-Learn"><img src="assets/project-novalearn.svg" width="420" alt="NovaLearn — AI course workspace, learning graphs and authentic assessments" /></a>
+<a href="https://github.com/Bijay-Thakur/PACT---Protocol-for-Agentic-Commit-Transactions"><img src="assets/project-pact.svg" width="420" alt="PACT — ongoing AI agent commit, recovery and validation project" /></a>
 
-I'm especially interested in the place where model engineering meets real product engineering.
+</div>
 
-<img src="assets/footer.svg" width="100%" alt="Warm illustrated sunset landscape with a thank-you message" />
+<sub>These are real public repositories, each card opens its source code. **PACT is ongoing.** Stars and forks are read from GitHub; no unsupported accuracy, test-count, production-readiness, or evaluation claims are displayed.</sub>
 
-**Thanks for stopping by — there's always room for another builder at the table.** ☕
+### 🛠️ Tools around my desk
+
+<img src="assets/toolbox-v2.svg" width="100%" alt="Tools used: Python, PyTorch, OpenAI, LangGraph, FastAPI, Next.js, TypeScript, Supabase, Docker and GitHub" />
+
+<div align="center">
+
+<img src="assets/footer-v2.svg" width="100%" alt="Warm illustrated sunset with a thank-you note" />
+
+<sub>Thanks for visiting. I care about thoughtful interfaces, rigorous evaluation, and engineering that survives the real world.</sub>
 
 </div>
