@@ -30,7 +30,7 @@
 <img src="assets/overview.svg" width="100%" alt="Verified public GitHub repositories, public stars, rolling-year contributions, and five featured projects" />
 
 <!-- STAR_PROVENANCE_START -->
-<p align="center"><strong>⭐ Where does the public star come from?</strong> <a href="https://github.com/Bijay-Thakur/StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores">StoreSense — 1 received star</a><br /><sub>Verified from GitHub's public repository data. This counts stars received by my repositories, not repositories I've starred. The link list refreshes automatically.</sub></p>
+<p align="center"><strong>⭐ Where do the public stars come from?</strong> <a href="https://github.com/Bijay-Thakur/StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores">StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores — 1 star</a><br /><sub>Verified GitHub public repositories. This is stars received, not repositories starred by me.</sub></p>
 <!-- STAR_PROVENANCE_END -->
 
 ### ✨ Featured Projects — made with care
