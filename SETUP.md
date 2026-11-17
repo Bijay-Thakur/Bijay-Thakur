@@ -25,3 +25,13 @@ GlitchVision is a gameplay/simulation visual anomaly triage project, not a self-
 - The live **public stars** total counts stars **received across all owned public repositories**, including nonfeatured repositories. It does not represent stars the user has awarded.
 - `scripts/star_attribution.py` regenerates the README star-source links using actual GitHub REST results at every successful stats update; manual edits within `STAR_PROVENANCE_START` and `STAR_PROVENANCE_END` will be overwritten.
 - The initial link to StoreSense was verified before shipping. The Python unit tests verify no-star and multiple-star scenarios.
+
+## Cozy Studio Concept 2 — independently linked intro, dynamic painted garden, footer
+
+The intro is split into a decorative static banner and three independently clickable illustrated PNG buttons linking to the existing portfolio, LinkedIn and email addresses. The duplicate "Hey there" greeting has been removed from the README because the original hero image already includes it.
+
+The garden is **not** a static mockup: `scripts/render_concept2.py` paints a fresh 53–54-week, Sunday-aligned, per-day calendar and total using the official GitHub GraphQL contribution payload, over a decorative illustrated `assets/garden-scene.jpg` background. The sample heatmap and the static example count from the illustration are completely obscured by an opaque data panel. Last-updated time appears inside the rendered PNG and reflects the time of the authenticated data run. `--placeholders` writes a clearly labeled pending state with no sample metrics.
+
+GitHub Actions regenerates and commits `assets/contributions-painted.png` alongside the existing SVG and project cards. It runs on script pushes, manual dispatch, and scheduled approximately 30-minute updates. The GitHub Actions service may delay schedules and GitHub image caching can delay the README image refresh; this is not continuous real-time streaming.
+
+The new footer is the illustrated Himalayan sunset postcard with no Blog, Buy Me a Coffee or donation links. The existing project gallery, real stats, real star attribution, and painted AI Engineering Journey are preserved.

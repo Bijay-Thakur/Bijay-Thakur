@@ -2,22 +2,21 @@
 
 <img src="assets/hero.jpg" width="100%" alt="Cozy coding studio at sunset: Bijay, an AI engineer, with his laptop, a friendly robot and a sleeping cat" />
 
-<h2>Hey there! I'm Bijay Thakur 👋</h2>
+<img src="assets/intro-scene.jpg" width="100%" alt="Cozy studio introduction: I build thoughtful AI systems using AI engineering, applied ML and full-stack development at Queens College, New York" />
 
-<p>Building thoughtful AI systems that turn complex problems into useful, reliable products.</p>
-<p><b>AI engineering</b> · <b>Applied ML</b> · <b>Full-stack products</b> · New York · Computer Science @ Queens College</p>
-
-<a href="https://bijaythakur.vercel.app/"><img src="assets/link-portfolio.svg" width="235" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/bijay-thakur-6b7793258/"><img src="assets/link-linkedin.svg" width="235" alt="LinkedIn" /></a>
-<a href="mailto:starbijay143@gmail.com"><img src="assets/link-email.svg" width="235" alt="Email" /></a>
+<p align="center">
+  <a href="https://bijaythakur.vercel.app/"><img src="assets/button-portfolio.png" width="230" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bijay-thakur-6b7793258/"><img src="assets/button-linkedin.png" width="230" alt="Connect with me on LinkedIn" /></a>
+  <a href="mailto:starbijay143@gmail.com"><img src="assets/button-email.png" width="230" alt="Send me an email" /></a>
+</p>
 
 </div>
 
-### 🌱 Contribution Garden
+### 🌱 GitHub Activity · Contribution Garden
 
-<img src="assets/contributions.svg" width="100%" alt="Real GitHub daily contribution heatmap illustrated as a flowering garden; timestamp shown on the chart" />
+<img src="assets/contributions-painted.png" width="100%" alt="Cozy painted contribution garden with actual GitHub contribution days, rolling-year total, color legend and last successful update timestamp" />
 
-<sub>Drawn from GitHub's contribution calendar. Refreshed automatically by GitHub Actions every 30 minutes when GitHub's scheduled runner executes; GitHub image caching can delay when you see an update.</sub>
+<sub>Contribution squares and totals come from GitHub's verified contribution calendar. The workflow targets updates about every 30 minutes; GitHub scheduling and image caching may cause delays. The banner shows its last successful refresh time.</sub>
 
 ### 🏔️ My AI Engineering Journey
 
@@ -72,8 +71,6 @@
 
 <div align="center">
 
-<img src="assets/footer-v2.svg" width="100%" alt="Warm illustrated sunset with a thank-you note" />
-
-<sub>Thanks for visiting. I care about thoughtful interfaces, rigorous evaluation, and engineering that survives the real world.</sub>
+<img src="assets/footer-postcard.jpg" width="100%" alt="Thanks for visiting! Let's build useful, real-world AI together. Warm Himalayan sunset with mountains, a hiking backpack, lantern, prayer flags and a stupa." />
 
 </div>
