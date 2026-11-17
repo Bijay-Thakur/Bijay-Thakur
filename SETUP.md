@@ -17,3 +17,11 @@ The hero, garden, journey, stats, toolbox, and footer use `width="100%"`; indivi
 ## Integrity
 
 GlitchVision is a gameplay/simulation visual anomaly triage project, not a self-driving vehicle system; its project art features a stylized game runner and an on-screen glitch. PACT is marked ongoing. No historical SEC eval scores, claimed production readiness, self-reported skill percentages, or unsourced backend test counts appear in the live visuals.
+
+
+## Painted journey and public-star provenance
+
+- The AI Engineering Journey displays the illustrated `assets/ai-journey-painted.jpg` banner, with five milestone signs visible on GitHub desktop and a matching text-only milestone sequence for narrow mobile screens.
+- The live **public stars** total counts stars **received across all owned public repositories**, including nonfeatured repositories. It does not represent stars the user has awarded.
+- `scripts/star_attribution.py` regenerates the README star-source links using actual GitHub REST results at every successful stats update; manual edits within `STAR_PROVENANCE_START` and `STAR_PROVENANCE_END` will be overwritten.
+- The initial link to StoreSense was verified before shipping. The Python unit tests verify no-star and multiple-star scenarios.

@@ -11,6 +11,7 @@ from pathlib import Path
 from github_data import get_data, PROJECTS
 from studio_art import render_all
 from render_painted_cards import draw_all
+from star_attribution import update_readme_star_sources
 
 if __name__ == "__main__":
     if "--placeholders" in sys.argv:
@@ -23,6 +24,7 @@ if __name__ == "__main__":
         assert len(data["chosen"]) == len(PROJECTS), "Repository metadata mismatch"
         render_all(data, PROJECTS)
         draw_all(PROJECTS, data)
+        update_readme_star_sources(data)
         # Timestamp the last successful data retrieval, not an assumed update cadence.
         garden = Path(__file__).resolve().parents[1] / "assets" / "contributions.svg"
         chart = garden.read_text(encoding="utf-8")
