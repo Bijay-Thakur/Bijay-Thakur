@@ -29,21 +29,40 @@
 
 ### ✨ Featured Projects — made with care
 
+*Illustrated using artwork from my Cozy Studio reference design. Each card opens its actual GitHub repository.*
+
 <div align="center">
 
-<a href="https://github.com/Bijay-Thakur/rag-sec-10k"><img src="assets/project-sec.svg" width="420" alt="SEC Insight AI — financial filing research using citation-grounded retrieval; live GitHub stars and forks" /></a>
-<a href="https://github.com/Bijay-Thakur/RivalScope-AI"><img src="assets/project-rivalscope.svg" width="420" alt="RivalScope AI — verifiable competitive research with cited evidence and live GitHub stars and forks" /></a>
-<a href="https://github.com/Bijay-Thakur/GlitchVision---Visual-Anomaly-Detection-for-Game-QA"><img src="assets/project-glitchvision.svg" width="420" alt="GlitchVision — gameplay glitch and visual anomaly detection, with a stylized runner gameplay illustration" /></a>
-<a href="https://github.com/Bijay-Thakur/Nova-Learn"><img src="assets/project-novalearn.svg" width="420" alt="NovaLearn — AI course workspace, learning graphs and authentic assessments" /></a>
-<a href="https://github.com/Bijay-Thakur/PACT---Protocol-for-Agentic-Commit-Transactions"><img src="assets/project-pact.svg" width="420" alt="PACT — ongoing AI agent commit, recovery and validation project" /></a>
+<a href="https://github.com/Bijay-Thakur/rag-sec-10k"><img src="assets/card-sec.png" width="420" alt="SEC Insight AI — financial filing research using citation-grounded retrieval; live GitHub stars and forks" /></a>
+<a href="https://github.com/Bijay-Thakur/RivalScope-AI"><img src="assets/card-rivalscope.png" width="420" alt="RivalScope AI — verifiable competitive research with cited evidence and live GitHub stars and forks" /></a>
+<a href="https://github.com/Bijay-Thakur/GlitchVision---Visual-Anomaly-Detection-for-Game-QA"><img src="assets/card-glitchvision.png" width="420" alt="GlitchVision — gameplay footage anomaly detection, with richly illustrated runner gameplay and highlighted glitch" /></a>
+<a href="https://github.com/Bijay-Thakur/Nova-Learn"><img src="assets/card-novalearn.png" width="420" alt="NovaLearn — AI course workspace, learning graphs and authentic assessments" /></a>
+<a href="https://github.com/Bijay-Thakur/PACT---Protocol-for-Agentic-Commit-Transactions"><img src="assets/card-pact.png" width="420" alt="PACT — ongoing AI agent commit, recovery and validation project" /></a>
 
 </div>
 
-<sub>These are real public repositories, each card opens its source code. **PACT is ongoing.** Stars and forks are read from GitHub; no unsupported accuracy, test-count, production-readiness, or evaluation claims are displayed.</sub>
+<sub>These are real public repositories, each card opens its source code. **PACT is ongoing.** Stars and forks are read from GitHub and refreshed by Actions; no unsupported accuracy, test-count, production-readiness, or evaluation claims are displayed.</sub>
 
 ### 🛠️ Tools around my desk
 
-<img src="assets/toolbox-v2.svg" width="100%" alt="Tools used: Python, PyTorch, OpenAI, LangGraph, FastAPI, Next.js, TypeScript, Supabase, Docker and GitHub" />
+<div align="center">
+
+<img src="assets/icons/python.svg" width="58" alt="Python official-style logo" title="Python" />
+<img src="assets/icons/pytorch.svg" width="58" alt="PyTorch official-style logo" title="PyTorch" />
+<img src="assets/icons/huggingface.svg" width="58" alt="Hugging Face official-style logo" title="Hugging Face" />
+<img src="assets/icons/fastapi.svg" width="58" alt="FastAPI official-style logo" title="FastAPI" />
+<img src="assets/icons/react.svg" width="58" alt="React official-style logo" title="React" />
+<img src="assets/icons/nextjs.svg" width="58" alt="Next.js official-style logo" title="Next.js" />
+<img src="assets/icons/typescript.svg" width="58" alt="TypeScript official-style logo" title="TypeScript" />
+<img src="assets/icons/supabase.svg" width="58" alt="Supabase official-style logo" title="Supabase" />
+<img src="assets/icons/docker.svg" width="58" alt="Docker official-style logo" title="Docker" />
+<img src="assets/icons/postgresql.svg" width="58" alt="PostgreSQL official-style logo" title="PostgreSQL" />
+<img src="assets/icons/googlecloud.svg" width="58" alt="Google Cloud official-style logo" title="Google Cloud" />
+<img src="assets/icons/github.svg" width="58" alt="GitHub official-style logo" title="GitHub" />
+
+<sub>AI & machine learning · APIs & data · Frontend · Cloud & deployment</sub>
+
+</div>
 
 <div align="center">
 

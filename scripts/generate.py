@@ -10,16 +10,19 @@ from datetime import datetime, timezone
 from pathlib import Path
 from github_data import get_data, PROJECTS
 from studio_art import render_all
+from render_painted_cards import draw_all
 
 if __name__ == "__main__":
     if "--placeholders" in sys.argv:
         render_all(None, PROJECTS)
+        draw_all(PROJECTS, None)
         print("Wrote deliberately unpopulated chart placeholders")
     else:
         data = get_data()
         assert len(data["days"]) > 300, "Contribution calendar missing recent days"
         assert len(data["chosen"]) == len(PROJECTS), "Repository metadata mismatch"
         render_all(data, PROJECTS)
+        draw_all(PROJECTS, data)
         # Timestamp the last successful data retrieval, not an assumed update cadence.
         garden = Path(__file__).resolve().parents[1] / "assets" / "contributions.svg"
         chart = garden.read_text(encoding="utf-8")
