@@ -6,6 +6,8 @@ No fake numerical defaults: API failure stops the workflow and preserves
 the last successful chart images in the repository.
 """
 import sys
+from datetime import datetime, timezone
+from pathlib import Path
 from github_data import get_data, PROJECTS
 from studio_art import render_all
 
@@ -18,4 +20,10 @@ if __name__ == "__main__":
         assert len(data["days"]) > 300, "Contribution calendar missing recent days"
         assert len(data["chosen"]) == len(PROJECTS), "Repository metadata mismatch"
         render_all(data, PROJECTS)
+        # Timestamp the last successful data retrieval, not an assumed update cadence.
+        garden = Path(__file__).resolve().parents[1] / "assets" / "contributions.svg"
+        chart = garden.read_text(encoding="utf-8")
+        stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+        chart = chart.replace("updated every 30 min", f"last refreshed {stamp}")
+        garden.write_text(chart, encoding="utf-8")
         print(f"Rendered {data['total']:,} contributions, {len(data['repos'])} public repos")
