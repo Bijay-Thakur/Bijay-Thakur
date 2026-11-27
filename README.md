@@ -100,7 +100,7 @@ Answerability checks ──► Retrieval (lexical; semantic when verified)
 ### GitHub activity
 
 <!-- LIVE_METRICS_START -->
-**228** contributions in the rolling year · **27** public repositories · **1** star received · **2** forks  
+**213** contributions in the rolling year · **26** public repositories · **1** star received · **2** forks  
 <sub>Source: GitHub GraphQL contribution calendar and REST repository metadata.</sub>
 <!-- LIVE_METRICS_END -->
 
