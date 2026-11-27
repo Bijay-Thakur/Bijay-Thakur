@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="221" viewBox="0 0 1040 221" role="img" aria-label="My year in code — awaiting the first verified GitHub refresh">
+<rect x="1" y="1" width="1038" height="219" rx="12" fill="#f8fafc" stroke="#d9e2ec"/>
+<text x="26" y="43" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#132336">My year in code</text>
+<text x="26" y="98" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#3a5873">Awaiting the first verified GitHub Actions refresh</text>
+<text x="26" y="141" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#667c8f">Contribution counts and activity will come directly from GitHub, not sample data.</text>
+<text x="26" y="191" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#667c8f">Source: GitHub GraphQL contribution calendar</text>
+</svg>

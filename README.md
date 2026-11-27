@@ -1,76 +1,119 @@
-<div align="center">
+# Bijay Thakur
 
-<img src="assets/hero.jpg" width="100%" alt="Cozy coding studio at sunset: Bijay, an AI engineer, with his laptop, a friendly robot and a sleeping cat" />
+**AI Engineer · Applied ML · Software Builder**  
+Computer Science, Queens College (CUNY) · New York, USA
 
-<img src="assets/intro-scene.jpg" width="100%" alt="Cozy studio introduction: I build thoughtful AI systems using AI engineering, applied ML and full-stack development at Queens College, New York" />
+I build practical AI systems that connect **retrieval, agents, evaluation, and full-stack engineering**. I care about what happens beyond a compelling demo: evidence quality, system behavior under failure, and whether people can actually use what I build.
 
-<p align="center">
-  <a href="https://bijaythakur.vercel.app/"><img src="assets/button-portfolio.png" width="230" alt="Visit my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/bijay-thakur-6b7793258/"><img src="assets/button-linkedin.png" width="230" alt="Connect with me on LinkedIn" /></a>
-  <a href="mailto:starbijay143@gmail.com"><img src="assets/button-email.png" width="230" alt="Send me an email" /></a>
-</p>
+[**Portfolio ↗**](https://bijaythakur.vercel.app/) &nbsp;·&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/bijay-thakur-6b7793258/) &nbsp;·&nbsp; [**Email ↗**](mailto:starbijay143@gmail.com) &nbsp;·&nbsp; [**Repositories ↗**](https://github.com/Bijay-Thakur?tab=repositories)
 
-</div>
+---
 
-### 🌱 GitHub Activity · Contribution Garden
+### What I work on
 
-<img src="assets/contributions-painted.png" width="100%" alt="Cozy painted contribution garden with actual GitHub contribution days, rolling-year total, color legend and last successful update timestamp" />
+`Applied AI` &nbsp; `RAG & Information Retrieval` &nbsp; `AI Agents` &nbsp; `Evaluation & Reliability` &nbsp; `Full-stack Systems`
 
-<sub>Contribution squares and totals come from GitHub's verified contribution calendar. The workflow targets updates about every 30 minutes; GitHub scheduling and image caching may cause delays. The banner shows its last successful refresh time.</sub>
+My approach: **define the problem → design the system → build → evaluate → iterate**. I enjoy projects where the difficult part is not just calling a model, but making the result understandable, verifiable, and useful.
 
-### 🏔️ My AI Engineering Journey
+### Featured engineering work
 
-<img src="assets/ai-journey-painted.jpg" width="100%" alt="Detailed warm sunset mountain landscape with an explorer, winding trail and milestone signs: Learn and Explore, Build, Evaluate, Improve, Deploy" />
+#### [01 / SEC Insight AI](https://github.com/Bijay-Thakur/rag-sec-10k) · Financial document intelligence
 
-<div align="center"><sub>Learn & Explore → Build → Evaluate → Improve → Deploy</sub></div>
+**Problem:** Financial filings are long, difficult to search, and easy to misinterpret without supporting evidence.  
+**Approach:** Citation-grounded Q&A over a bounded SEC filing collection, with lexical retrieval, answerability checks, a FastAPI service, and a Next.js interface.  
+**Engineering focus:** Retrieval provenance, evaluation, cost controls, and safe behavior when a verified semantic index is not available.  
+**Stack:** `Python` `FastAPI` `Next.js` `OpenAI` `ChromaDB`  
+[Source & technical documentation ↗](https://github.com/Bijay-Thakur/rag-sec-10k) · [Web interface ↗](https://rag-sec-10k-alpha.vercel.app)
 
-### 📊 At a Glance
+#### [02 / RivalScope AI](https://github.com/Bijay-Thakur/RivalScope-AI) · Competitive research agents
 
-<img src="assets/overview.svg" width="100%" alt="Verified public GitHub repositories, public stars, rolling-year contributions, and five featured projects" />
+**Problem:** Competitor intelligence is often scattered across web sources, and uncited summaries are hard to trust.  
+**Approach:** A LangGraph research pipeline with parallel evidence-gathering tracks, citation-backed comparisons, streaming execution traces, and a benchmark harness.  
+**Engineering focus:** Traceability, grounding checks, deterministic scoring, and repeatable evaluation in mock mode.  
+**Stack:** `Python` `FastAPI` `LangGraph` `Next.js` `Tavily`  
+[Source & architecture ↗](https://github.com/Bijay-Thakur/RivalScope-AI)
 
-<!-- STAR_PROVENANCE_START -->
-<p align="center"><strong>⭐ Where do the public stars come from?</strong> <a href="https://github.com/Bijay-Thakur/StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores">StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores — 1 star</a><br /><sub>Verified GitHub public repositories. This is stars received, not repositories starred by me.</sub></p>
-<!-- STAR_PROVENANCE_END -->
+#### [03 / GlitchVision](https://github.com/Bijay-Thakur/GlitchVision---Visual-Anomaly-Detection-for-Game-QA) · Computer vision for game QA
 
-### ✨ Featured Projects — made with care
+**Problem:** Manually reviewing long gameplay recordings to find unusual visual events is time-consuming.  
+**Approach:** CPU-first frame sampling, ResNet-18 embeddings, Isolation Forest, reference-based kNN, and ranked suspicious intervals.  
+**Engineering focus:** Baseline comparisons and reproducible synthetic evaluation. The system flags **where to review**, not a definitive diagnosis of what is broken.  
+**Stack:** `Python` `PyTorch` `scikit-learn` `Streamlit`  
+[Source & benchmark methodology ↗](https://github.com/Bijay-Thakur/GlitchVision---Visual-Anomaly-Detection-for-Game-QA)
 
-*Illustrated using artwork from my Cozy Studio reference design. Each card opens its actual GitHub repository.*
+#### [04 / NovaLearn](https://github.com/Bijay-Thakur/Nova-Learn) · AI-assisted course design
 
-<div align="center">
+**Problem:** Course materials, assessments, learning objectives, and evidence of understanding can be disconnected.  
+**Approach:** A professor-led workspace for generating course structures, reviewing authentic assessments, and tracing student evidence to learning objectives.  
+**Engineering focus:** Human approval gates, explicit preview/live boundaries, immutable evidence records, and recoverable workflows.  
+**Stack:** `Next.js` `TypeScript` `Supabase` `LLM APIs`  
+[Source & implementation guides ↗](https://github.com/Bijay-Thakur/Nova-Learn)
 
-<a href="https://github.com/Bijay-Thakur/rag-sec-10k"><img src="assets/card-sec.png" width="420" alt="SEC Insight AI — financial filing research using citation-grounded retrieval; live GitHub stars and forks" /></a>
-<a href="https://github.com/Bijay-Thakur/RivalScope-AI"><img src="assets/card-rivalscope.png" width="420" alt="RivalScope AI — verifiable competitive research with cited evidence and live GitHub stars and forks" /></a>
-<a href="https://github.com/Bijay-Thakur/GlitchVision---Visual-Anomaly-Detection-for-Game-QA"><img src="assets/card-glitchvision.png" width="420" alt="GlitchVision — gameplay footage anomaly detection, with richly illustrated runner gameplay and highlighted glitch" /></a>
-<a href="https://github.com/Bijay-Thakur/Nova-Learn"><img src="assets/card-novalearn.png" width="420" alt="NovaLearn — AI course workspace, learning graphs and authentic assessments" /></a>
-<a href="https://github.com/Bijay-Thakur/PACT---Protocol-for-Agentic-Commit-Transactions"><img src="assets/card-pact.png" width="420" alt="PACT — ongoing AI agent commit, recovery and validation project" /></a>
+#### [05 / PACT](https://github.com/Bijay-Thakur/PACT---Protocol-for-Agentic-Commit-Transactions) · **Ongoing research prototype**
 
-</div>
+**Problem:** Multiple agents can propose actions independently even when the business outcome requires shared constraints and coordinated side effects.  
+**Approach:** A transaction/commit protocol with authority checks, invariant barriers, effect verification, recovery from ambiguous outcomes, and auditable receipts.  
+**Engineering focus:** Distributed failure semantics, idempotency, reconciliation, and safe escalation when rollback cannot be guaranteed.  
+**Stack:** `TypeScript` `Node.js` `PostgreSQL`  
+[Source, runbook & current scope ↗](https://github.com/Bijay-Thakur/PACT---Protocol-for-Agentic-Commit-Transactions)
 
-<sub>These are real public repositories, each card opens its source code. **PACT is ongoing.** Stars and forks are read from GitHub and refreshed by Actions; no unsupported accuracy, test-count, production-readiness, or evaluation claims are displayed.</sub>
+#### [06 / StoreSense](https://github.com/Bijay-Thakur/StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores) · Retail decision-support MVP
 
-### 🛠️ Tools around my desk
+**Problem:** Small stores have sales and inventory reports but limited time to turn them into actionable decisions.  
+**Approach:** A decision-support interface that organizes POS exports, vendor costs, pricing signals, and inventory information into suggested actions.  
+**Engineering focus:** Data-to-decision UX, practical business workflows, and an incremental path from **mock-data MVP** to real integrations.  
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS`  
+[Source & product overview ↗](https://github.com/Bijay-Thakur/StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores)
 
-<div align="center">
+---
 
-<img src="assets/icons/python.svg" width="58" alt="Python official-style logo" title="Python" />
-<img src="assets/icons/pytorch.svg" width="58" alt="PyTorch official-style logo" title="PyTorch" />
-<img src="assets/icons/huggingface.svg" width="58" alt="Hugging Face official-style logo" title="Hugging Face" />
-<img src="assets/icons/fastapi.svg" width="58" alt="FastAPI official-style logo" title="FastAPI" />
-<img src="assets/icons/react.svg" width="58" alt="React official-style logo" title="React" />
-<img src="assets/icons/nextjs.svg" width="58" alt="Next.js official-style logo" title="Next.js" />
-<img src="assets/icons/typescript.svg" width="58" alt="TypeScript official-style logo" title="TypeScript" />
-<img src="assets/icons/supabase.svg" width="58" alt="Supabase official-style logo" title="Supabase" />
-<img src="assets/icons/docker.svg" width="58" alt="Docker official-style logo" title="Docker" />
-<img src="assets/icons/postgresql.svg" width="58" alt="PostgreSQL official-style logo" title="PostgreSQL" />
-<img src="assets/icons/googlecloud.svg" width="58" alt="Google Cloud official-style logo" title="Google Cloud" />
-<img src="assets/icons/github.svg" width="58" alt="GitHub official-style logo" title="GitHub" />
+### System spotlight · Designing for trustworthy RAG
 
-<sub>AI & machine learning · APIs & data · Frontend · Cloud & deployment</sub>
+One recurring theme in my work is moving from a generated answer to an **evidence-backed result**. For example, the bounded SEC Insight AI question-answering pipeline is structured around:
 
-</div>
+```text
+Question
+   │
+   ▼
+Answerability checks ──► Retrieval (lexical; semantic when verified)
+   │                                  │
+   └──────────────────────────────────┘
+                   ▼
+           Supporting passages
+                   ▼
+          LLM + source citations
+                   ▼
+          Grounded response / abstain
+```
 
-<div align="center">
+**Why the gates matter:** A model can produce fluent answers without the right evidence. Retrieval provenance, pre-generation checks, and explicit degraded states make failure easier to detect and safer to handle. [See the SEC Insight repository for the latest index/readiness limitations ↗](https://github.com/Bijay-Thakur/rag-sec-10k).
 
-<img src="assets/footer-postcard.jpg" width="100%" alt="Thanks for visiting! Let's build useful, real-world AI together. Warm Himalayan sunset with mountains, a hiking backpack, lantern, prayer flags and a stupa." />
+### Tools & engineering practices
 
-</div>
+**Languages:** Python · TypeScript/JavaScript · SQL · C++  
+**AI/ML:** PyTorch · embeddings & retrieval · LangGraph · evaluation harnesses · model APIs  
+**Backend & data:** FastAPI · Node.js · PostgreSQL · Supabase  
+**Product & delivery:** Next.js · React · Docker · GitHub Actions · Vercel
+
+**Practices I prioritize:** measurable baselines, traceable outputs, explicit failure states, reproducible tests, human approval where it matters, and deployment feedback loops.
+
+### GitHub activity
+
+<!-- LIVE_METRICS_START -->
+*Fetching verified GitHub contribution and repository statistics.*
+<!-- LIVE_METRICS_END -->
+
+<a href="https://github.com/Bijay-Thakur?tab=overview"><img src="assets/editorial-activity.svg" width="100%" alt="GitHub contribution heatmap: actual daily contributions from the rolling-year calendar, with update timestamp" /></a>
+
+<sub>Updated from GitHub's contribution calendar and public repository API by a scheduled workflow. Refreshes are periodic (not instantaneous); GitHub may cache images. The statistics summarize owned public repositories, not just the projects above.</sub>
+
+### Currently exploring
+
+- **Agent reliability:** commit semantics, authorization constraints, and recovery when a tool call's outcome is ambiguous.
+- **RAG evaluation:** evidence quality, retrieval failures, answerability, and regression checks.
+- **AI product engineering:** useful workflows, understandable interfaces, and closing the loop with real users.
+
+---
+
+**Building things that are useful, testable, and worth maintaining.**  
+[Portfolio](https://bijaythakur.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bijay-thakur-6b7793258/) · [Email](mailto:starbijay143@gmail.com)
