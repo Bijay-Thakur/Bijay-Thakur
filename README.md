@@ -100,7 +100,8 @@ Answerability checks ──► Retrieval (lexical; semantic when verified)
 ### GitHub activity
 
 <!-- LIVE_METRICS_START -->
-*Fetching verified GitHub contribution and repository statistics.*
+**228** contributions in the rolling year · **27** public repositories · **1** stars received · **2** forks  
+<sub>Source: GitHub GraphQL contribution calendar and REST repository metadata.</sub>
 <!-- LIVE_METRICS_END -->
 
 <a href="https://github.com/Bijay-Thakur?tab=overview"><img src="assets/editorial-activity.svg" width="100%" alt="GitHub contribution heatmap: actual daily contributions from the rolling-year calendar, with update timestamp" /></a>
