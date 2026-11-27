@@ -27,7 +27,7 @@ class EditorialActivityTests(unittest.TestCase):
         text = ep.metrics_markdown(example())
         self.assertIn('34', text)
         self.assertIn('2** public repositories', text)
-        self.assertIn('1** stars received', text)
+        self.assertIn('1** star received', text)
         self.assertIn('2** forks', text)
 
     def test_bad_totals_fail_closed(self):
