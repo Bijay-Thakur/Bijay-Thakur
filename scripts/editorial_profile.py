@@ -50,7 +50,7 @@ def metrics_markdown(data: dict) -> str:
         raise ValueError('Invalid public repository statistics')
     return (f'**{contributions:,}** contributions in the rolling year · '
             f'**{len(repos):,}** public repositories · '
-            f'**{stars:,}** stars received · '
+            f'**{stars:,}** {"star" if stars == 1 else "stars"} received · '
             f'**{forks:,}** forks  \n'
             '<sub>Source: GitHub GraphQL contribution calendar and REST repository metadata.</sub>')
 
